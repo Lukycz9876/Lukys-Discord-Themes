@@ -18,9 +18,9 @@ I am **VERY** new to this and I mostly do this for fun when bored.
 | Original            | Old Midnight                                                     |
 | ----------------- | ------------------------------------------------------------------ |
 | ![App Screenshot](https://github.com/Lukycz9876/Lukys-Discord-Themes/blob/main/Pictures/Old%20Midnight/Original/Orig1.png) | ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Theme1.png) |
-| ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Orig2.png) | ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Theme2.png) |
-| ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Orig3.png) | ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Theme3.png) |
-| ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Orig4.png) | ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Theme4.png) |
+| ![App Screenshot](https://github.com/Lukycz9876/Lukys-Discord-Themes/blob/main/Pictures/Old%20Midnight/Original/Orig2.png) | ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Theme2.png) |
+| ![App Screenshot](https://github.com/Lukycz9876/Lukys-Discord-Themes/blob/main/Pictures/Old%20Midnight/Original/Orig3.png) | ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Theme3.png) |
+| ![App Screenshot](https://github.com/Lukycz9876/Lukys-Discord-Themes/blob/main/Pictures/Old%20Midnight/Original/Orig4.png) | ![App Screenshot](https://github.com/Lukycz9876/Discord-Themes/blob/main/Theme4.png) |
 </details>
 
 ### More??
