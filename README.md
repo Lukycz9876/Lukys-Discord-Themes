@@ -13,7 +13,7 @@ I am **VERY** new to this and I mostly do this for fun when bored.
 <details>
   <summary>Click to expand</summary>
 
-  This theme is the old midnight colour theme before discord refreshed.
+  This theme is brings back the old midnight colour theme before discord refreshed.
 
 | Original            | Old Midnight                                                     |
 | ----------------- | ------------------------------------------------------------------ |
