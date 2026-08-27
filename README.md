@@ -1,5 +1,5 @@
-# Transgender Theme 🏳️‍⚧️
-A discord mobile transgender theme for kettu/rain/revenge
-Based on the colours of the trans flag with a nice background
+# Discord Themes
 
-This is my first theme so there might be some bugs
+Hello,
+This a place where I put all my themes for kettu/rain/revenge and any other that let you add custom themes.
+I am **VERY** new to this and I mostly do this for fun when bored.
