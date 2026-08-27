@@ -1,4 +1,4 @@
-# Discord Themes
+# Luky's Discord Themes
 
 Hello,
 
@@ -25,6 +25,6 @@ I am **VERY** new to this and I mostly do this for fun when bored.
 
 ### More??
 
-Maybe, I dont know
+Maybe, I don't know
 
 What are you looking at? 
